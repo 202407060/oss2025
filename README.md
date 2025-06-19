@@ -11,15 +11,17 @@
 3. 마지막에 add.cpp, sub.cpp가 코드에 문제 있어 문제 수정
 
 ### 수정 내용 스크린샷
-![](/b2_calc/images/calc.cpp.png)
-![](/b2_calc/images/add.png)
-![](/b2_calc/images/sub.png)
-![](/b2_calc/images/dive.png)
-![](/b2_calc/images/mul.cpp.png)
-![](/b2_calc/images/mod.cpp.png)
+![](/images/calc.cpp.png)
+![](/images/add.png)
+![](/images/sub.png)
+![](/images/dive.png)
+![](/images/mul.cpp.png)
+![](/images/mod.cpp.png)
 ### 문제 해결 스크린샷
-![](/b2_calc/images/문제1.png)
-![](/b2_calc/images/문제%201%20해결.png)
-![](/b2_calc/images/문제%201%20해결%202.png)
+![](/images/문제1.png)
+![](/images/문제%201%20해결.png)
+![](/images/문제%201%20해결%202.png)
 ### 프로그램 실행 화면
-![](/b2_calc/images/실행.png)
+![](/images/실행.png)
+### git flow
+![](/images/flow.png)
